@@ -1,0 +1,54 @@
+[
+    {
+        "email": "exemplo@exemplo.com",
+        "senha": "Exemplo123",
+        "status": "SUCESSO",
+        "timestamp_processamento": "176036...",
+        "perfil": {
+            "hotmart_id": "12345678",
+            "nome_completo": "Nome Completo Vinculado na Conta",
+            "autoridades": [
+        "DIRECT_DEBIT_SEPA",
+        "HOTMART_LIVE_BETA",
+        "HOTMART_PRO_BETA_V2",
+        "HOTPRO_FREEMIUM",
+        "HOTPRO_LEAD",
+		"INTEGRATION_TEACHABLE_MEMBERSHIP",
+        "PLATFORM_SIGNUP",
+        "PRIVACY_DPA",
+        "SPARKLE_SIGNUP",
+        "SPARKLE_USER",
+        "WEBINAR",
+		"atendente",
+		"comprador",
+		"display",
+        "produtor",
+        "shortener_link",
+        "user_br",
+        "vendedor",
+	"HOTMART_ACCOUNT_PLATFORM"
+...
+            ],
+            "tipo_entidade": "BOTH" / "null" / "INDIVIDUAL_ENTITY" / "LEGAL_ENTITY", ...
+            "pais": "El Salvador" / "Brasil" / "Uruguay" / "Saudi Arabia" / "Mexico" / "Ecuador" / "Mozambique" / ...
+            "locale": "ES" / "PT_BR" / "AR" / ..
+            "data_cadastro_ms": 17373872...
+        },
+        "cursos": {
+            "cursos": [
+                {
+                    "tipo": "Pago",
+                    "id_curso": 1234567,
+                    "nome_curso": "Nome do Curso"
+                },
+                {
+                    "tipo": "Gratuito",
+                    "id_curso": 12345672,
+                    "nome_curso": "Nome do Curso2"
+                },
+...
+            ]
+        }
+    },
+...
+]

@@ -1,0 +1,55 @@
+--- 201 clientes já processados com sucesso. ---
+[PULANDO] Cliente joaov****.com já tem status SUCESSO.
+
+--- INICIANDO PROCESSAMENTO: 45566 clientes ---
+
+[CLIENTE 1/540963] Processando: lucim****l.com
+   STATUS FINAL: SUCESSO
+
+[CLIENTE 2/540963] Processando: diogoc****il.com
+   STATUS FINAL: Falha de Autenticação/Rede (Status 401)
+
+[CLIENTE 3/540963] Processando: delic****il.com
+   STATUS FINAL: Falha de Autenticação/Rede (Status 401)
+
+[CLIENTE 4/540963] Processando: Mathe****il.com
+   STATUS FINAL: Falha de Autenticação/Rede (Status 401)
+
+[CLIENTE 5/540963] Processando: eider****il.com
+   STATUS FINAL: Falha de Autenticação/Rede (Status 401)
+
+[CLIENTE 6/540963] Processando: suzu****.com
+   STATUS FINAL: Falha de Autenticação/Rede (Status 401)
+
+[CLIENTE 7/540963] Processando: nava****il.com
+   STATUS FINAL: Falha de Autenticação/Rede (Status 401)
+
+[CLIENTE 8/540963] Processando: marcu****il.com
+   STATUS FINAL: Falha de Autenticação/Rede (Status 401)
+
+[CLIENTE 9/540963] Processando: eor****l.com
+   STATUS FINAL: Falha de Autenticação/Rede (Status 401)
+
+[CLIENTE 10/540963] Processando: luca****ail.com
+   STATUS FINAL: Falha de Autenticação/Rede (Status 401)
+
+[CLIENTE 11/540963] Processando: cari****.com
+   STATUS FINAL: Falha de Autenticação/Rede (Status 401)
+
+[CLIENTE 12/540963] Processando: ninja****ail.com
+   STATUS FINAL: SUCESSO
+
+[CLIENTE 13/540963] Processando: eer****com
+   STATUS FINAL: Falha de Autenticação/Rede (Status 401)
+
+[CLIENTE 14/540963] Processando: orteg****com
+   STATUS FINAL: Falha de Autenticação/Rede (Status 401)
+
+[CLIENTE 15/540963] Processando: renn****.com
+   STATUS FINAL: Falha de Autenticação/Rede (Status 401)
+
+[CLIENTE 16/540963] Processando: lui****.br
+   STATUS FINAL: Falha de Autenticação/Rede (Status 401)
+
+[CLIENTE 17/540963] Processando: mathia****l.com
+   STATUS FINAL: Falha de Autenticação/Rede (Status 401)
