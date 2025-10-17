@@ -1,7 +1,7 @@
 --- 201 clientes já processados com sucesso. ---
 [PULANDO] Cliente joaov****.com já tem status SUCESSO.
 
---- INICIANDO PROCESSAMENTO: 45566 clientes ---
+--- INICIANDO PROCESSAMENTO: 540963 clientes ---
 
 [CLIENTE 1/540963] Processando: lucim****l.com
    STATUS FINAL: SUCESSO
@@ -52,4 +52,5 @@
    STATUS FINAL: Falha de Autenticação/Rede (Status 401)
 
 [CLIENTE 17/540963] Processando: mathia****l.com
+
    STATUS FINAL: Falha de Autenticação/Rede (Status 401)
